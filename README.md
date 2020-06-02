@@ -1,4 +1,4 @@
-Intelligent Customer Help Desk with Smart Document Understanding
+#Intelligent Customer Help Desk with Smart Document Understanding
 
 The typical customer care chatbot can answer simple questions, such as store locations and hours, directions, and maybe even making appointments. When a question falls outside of the scope of the pre-determined question set, the option is typically to tell the customer the question isn’t valid or offer to speak to a real person.
 
@@ -13,6 +13,6 @@ Scope of Work:
 * Build a web application with integration to all these services & deploy the same on IBM Cloud Platform
 
 The link to the chatbot is:
-https://node-red-dktrz.eu-gb.mybluemix.net/ui
+https://global-connect.mybluemix.net/ui
 
 The link to the video uploaded in YouTube is:
