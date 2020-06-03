@@ -16,3 +16,4 @@ The link to the chatbot is:
 https://global-connect.mybluemix.net/ui
 
 The link to the video uploaded in YouTube is:
+https://youtu.be/39gXGYS2jvU
